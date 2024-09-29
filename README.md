@@ -1,4 +1,6 @@
 # Automatic-Ticket-Classification-Using-NLP
+> Create a solution that will help in identifying the type of complaint ticket raised by the customers of a multinational bank
+---
 
 ## Overview
 This project aims to classify customer complaints into different topics using machine learning techniques. The dataset contains text data related to customer complaints, and the goal is to predict the category or topic of each complaint. Various models such as Logistic Regression, Decision Tree, and Random Forest have been evaluated for their effectiveness in classifying the complaints accurately.
