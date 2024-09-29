@@ -1,4 +1,4 @@
-# Automatic-Ticket-Classification-Using-NLP
+# Automatic Ticket Classification using NLP
 > Create a solution that will help in identifying the type of complaint ticket raised by the customers of a multinational bank
 ---
 
